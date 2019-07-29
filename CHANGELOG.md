@@ -38,6 +38,10 @@
 
 * **android:** You are required to only use either the Support Library or AndroidX for your dependencies. If you need to migrate this library back to the support library, or another library forward to AndroidX, then take a look at the [Jetifier tool](https://github.com/mikehardy/jetifier).
 
+## [3.3.1](https://github.com/react-native-community/react-native-netinfo/compare/v3.2.0...v3.2.1) (2019-06-01)
+
+* Align the legacy version (pre-androidx) with the v4.1.3 fixes and features. This version is mostly like v4.1.3 but reverted to Android Support Libraries
+
 ## [3.2.1](https://github.com/react-native-community/react-native-netinfo/compare/v3.2.0...v3.2.1) (2019-06-01)
 
 
