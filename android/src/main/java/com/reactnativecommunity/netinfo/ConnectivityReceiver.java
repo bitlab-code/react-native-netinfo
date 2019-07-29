@@ -8,7 +8,7 @@ package com.reactnativecommunity.netinfo;
 
 import android.content.Context;
 import android.net.ConnectivityManager;
-import androidx.core.net.ConnectivityManagerCompat;
+import android.support.v4.net.ConnectivityManagerCompat;
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.WritableMap;
